@@ -40,7 +40,7 @@ Gmail account with app passwords enabled
 Setup Steps
 
 1. Clone this repo:
-git clone https://github.com/[your-username]/cold-email-automation-n8n.git
+git clone https://github.com/rohitshinde2035/cold-email-automation-n8n.git
 cd cold-email-automation-n8n
 
 
